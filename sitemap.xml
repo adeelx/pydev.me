@@ -9,4 +9,18 @@
        <image:caption>Adeel Hasan Akbari's Resume Preview</image:caption>
     </image:image>
   </url>
+  <url> 
+    <loc>http://static.pydev.me/adeelx-resume-devops.pdf</loc> 
+    <image:image>
+       <image:loc>http://pydev.me/images/preview.png</image:loc>
+       <image:caption>Adeel Hasan Akbari's Resume PDF</image:caption>
+    </image:image>
+  </url>
+  <url> 
+    <loc>http://static.pydev.me/adeelx-saa-certificate.pdf</loc> 
+    <image:image>
+       <image:loc>http://pydev.me/images/preview-saa-certificate.png</image:loc>
+       <image:caption>Adeel Hasan Akbari's AWS Certified Solutions Architect - Associate Certificate</image:caption>
+    </image:image>
+  </url>
 </urlset>
